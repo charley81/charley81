@@ -3,7 +3,7 @@
 # const about = 🎹 💻 
 My name is Chris Harley and I'm a software developer/musician. I'm live in Atlanta, Georgia, member of VetsWhoCode 🇺🇸. 
 
-## let The three pillars of life =
+## let theThreePillarsOfLife =
 1. **BBQ** 🔥🔥🔥
   > Nothing better than firing up the grill and doing some good ole Bar-B-Q
 
