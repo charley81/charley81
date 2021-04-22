@@ -1,7 +1,7 @@
 ![GitHub Logo](https://github.com/charley81/charley81/blob/master/header.png?raw=true)
 
 # const about = 🎹 💻 
-My name is Chris Harley and I'm a software developer/musician. I live in Atlanta, Georgia, member of VetsWhoCode 🇺🇸. 
+My name is Chris Harley and I'm a software developer/musician.  
 
 ## let theThreePillarsOfLife =
 ### **BBQ** 🔥🔥🔥
