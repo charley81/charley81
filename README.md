@@ -1,7 +1,6 @@
 ![GitHub Logo](https://github.com/charley81/charley81/blob/master/Header.png?raw=true)
 
-# const about = 🎹 💻 
-My name is Chris Harley and I'm a software developer/musician.  
+Hi, I'm Chris Harley 
 
 ## let theThreePillarsOfLife =
 ### **BBQ** 🔥🔥🔥
