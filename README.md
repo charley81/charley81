@@ -2,5 +2,6 @@
 
 # Hi, I'm Chris Harley
 - I've been coding in javascript for over five years
+- My passion is UI design and development
 - I'm currently working with NextJS, Typescript and Headless CMS's
 - You can connect with me on [Linkedin](https://www.linkedin.com/in/charley81)
